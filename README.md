@@ -1,7 +1,5 @@
-# ilPalo
-
-# ilPalo
 <div align="center">
+     # ilPalo
      <h3 align="center">a simple IOT project that helps you scroll reddit undetected while you're in the office
 </h3>
   </div>
