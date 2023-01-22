@@ -15,9 +15,10 @@ Here's the Arduino components needed for the project:
 * PIR sensor connected to A5 pin
 
 Before upolading the code on your Arduino you have to add your Wifi credentials in the ilPaloArduino.ino file.
+
 Before starting the nodejs client app you have to add the IP address and port of the Arduino in the ilPalo.js file.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Put the device in your garden with the moisture sensor inside the soil, you can check values like temperature, humidity, pressure, light and soil moisture from the screen using the buttons or using the app. The app also allows you to remotely control the water pump, the lights and a fan. It also gives you a weather forecast for the next twelve hours thanks to the implementation of the Zambretti algorithm and it is possible to observe the trend of the sensor values in different time frames through the graphs page.
+Put the device with the sensor facing your room door and start the client application on your computer. Now when someone open the door a new browser tab will open and  you can pretend you're working!
 
