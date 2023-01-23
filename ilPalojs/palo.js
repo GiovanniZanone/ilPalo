@@ -3,7 +3,7 @@ const opn = require("opn");
 
 // Define the IP address and port of the Arduino inside the url
 const options = {
-  url: "http://192.168.1.13:80/motion",
+  url: "http://yourIP:80/motion",
   method: "GET",
 };
 const url = "https://stackoverflow.com/";
