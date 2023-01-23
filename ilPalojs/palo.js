@@ -24,4 +24,4 @@ setInterval(() => {
       console.log(error);
     }
   });
-}, 300); // Make the GET request every 300 ms
+}, 50); // Make the GET request every 50 ms
